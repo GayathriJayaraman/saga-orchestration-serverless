@@ -2,7 +2,7 @@ name: 'TerraformCI'
 
 on:
   push:
-    branches: [ master ]
+    branches: [ GayathriJayaraman-patch-1 ]
     paths:
       - iac/*
 
